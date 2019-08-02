@@ -1,9 +1,9 @@
 ﻿
 using System;
 
-namespace CleanCode.DuplicatedCode
+namespace CleanCode.EX11
 {
-    class DuplicatedCode
+    class MainCode
     {
         public void AdmitGuest(string name, string admissionDateTime)
         {

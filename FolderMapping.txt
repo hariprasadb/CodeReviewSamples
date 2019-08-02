@@ -4,3 +4,4 @@ Ex3 -- usage of OutParameter
 Ex4 -- usage of Magic numbers 
 Ex5 -- Poor method signature
 Ex6 --	Nested if Condition.
+Ex10 -- Long Method
